@@ -23,7 +23,7 @@
 ### 💻 The Architecture of My Work
 I am a Data Science engineering student at Chandigarh University building at the intersection of **scalable web deployment**, **statistical data engineering**, and **applied artificial intelligence**[cite: 1]. 
 
-Whether I am deploying SEO-optimized client architectures in an agency environment, training models to analyze urban traffic flow, or studying the low-level mechanics of Computer Organization and Architecture, my focus is on writing clean, efficient, and production-ready code.
+Whether I am deploying SEO-optimized client architectures in an agency environment or training models to analyze urban traffic flow, my focus is on writing clean, efficient, and production-ready code.
 
 <br>
 
