@@ -1,109 +1,95 @@
-<!-- HERO SECTION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:0055FF&height=250&section=header&text=Vedansh%20Mittal&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Architecting%20Intelligent%20Systems&descAlignY=55&descAlign=50" alt="Hero Banner" />
-</div>
+<p align="center">
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#kaggle-results">Kaggle results</a> &nbsp; / &nbsp;
+  <a href="https://www.kaggle.com/vedanshmittal2076">Kaggle profile</a> &nbsp; / &nbsp;
+  <a href="mailto:vedanshmittal20@gmail.com">Get in touch</a>
+</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Data+Science+Engineer;Applied+AI+Innovator;Building+Production-Ready+Tools" alt="Typing Subtitle" />
-  </a>
-</div>
+<img src="./profile-banner.png" width="100%" alt="Vedansh Mittal. Data into models. Models into products. Applied AI, data science, and full-stack development." />
 
-<div align="center">
-  <a href="mailto:vedanshmittal20@gmail.com">
-    <img src="https://img.shields.io/badge/Connect-vedanshmittal20@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Base-Jaipur,%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00E5FF" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=VedanshMittal20&label=Views&color=00E5FF&style=for-the-badge" alt="Views" />
-</div>
+# Vedansh Mittal
 
-<br>
+**CSE (Data Science) at Chandigarh University. Building from Jaipur, India.**
 
-<!-- MANIFESTO / ABOUT -->
-### 💻 The Architecture of My Work
-I am a Data Science engineering student at Chandigarh University building at the intersection of **scalable web deployment**, **statistical data engineering**, and **applied artificial intelligence**[cite: 1]. 
+I build machine learning experiments that can be checked, and web products that people can use. My work spans tabular prediction, geospatial intelligence, and full-stack development.
 
-Whether I am deploying SEO-optimized client architectures in an agency environment or training models to analyze urban traffic flow, my focus is on writing clean, efficient, and production-ready code.
+## Selected work
 
-<br>
+<!-- PROJECTS:START -->
+### [Predicting Electric Vehicle Purchases](https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model)
 
-<!-- HTML GRID PORTFOLIO (High-End UI) -->
-### 🚀 Engineering Portfolio
+Predicting EV purchase intent with feature engineering, additive models, and cross-validated gradient-boosting ensembles.
 
-<table bordercolor="#00E5FF">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 HabiGo 360 Client Deployment</h3>
-      <p><b>Role:</b> Technical Intern & Developer</p>
-      <p>Engineered and shipped production-ready web architectures for an in-house agency and its diverse client base. Coordinated directly with marketing and design teams to deliver high-performance, SEO-optimized front-end builds.</p>
-      <p><i>Next.js • React • Tailwind CSS • UX/UI</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 N.O.V.A AI Ecosystem</h3>
-      <p><b>Role:</b> Lead Architect (Independent)</p>
-      <p>Architected a ground-up personal AI ecosystem by adapting open-source frameworks. Leveraged advanced prompt engineering and API integrations to automate complex workflows and accelerate the development cycle.</p>
-      <p><i>Python • Prompt Engineering • LLMs • APIs</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Road Safety Analytics Engine</h3>
-      <p><b>Role:</b> Data Engineer</p>
-      <p>Engineered robust statistical models processing complex urban datasets. Analyzed traffic flow and safety metrics to identify high-risk zones, utilizing advanced data manipulation libraries to extract actionable insights.</p>
-      <p><i>Python • Pandas • Statistical Modeling</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🖥️ Experiment-1 Full-Stack</h3>
-      <p><b>Role:</b> Systems Architect</p>
-      <p>Developed a high-performance dynamic platform focused on modern backend logic. Designed scalable RESTful APIs, optimized database routing, and connected seamless front-end interfaces to robust server architecture.</p>
-      <p><i>Node.js • Express • React • MongoDB</i></p>
-    </td>
-  </tr>
-</table>
+`Python / LightGBM / CatBoost / XGBoost`
 
-<br>
+**Best public ROC AUC: 0.94646** · [Result record](https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model/blob/main/submission_result_v4.json)
 
-<!-- STYLIZED TECH STACK -->
-### 🧰 The Tech Arsenal
+### [House Prices: Advanced Regression](https://github.com/VedanshMittal20/house-prices-advanced-regression)
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,docker,gcp,git,github,vscode,figma&perline=8" alt="Tech Stack" />
-  </a>
-</div>
+Reproducible Ames housing experiments with fold-fitted preprocessing, repeated validation, and frozen model ensembles.
 
-<br>
+`Python / scikit-learn / CatBoost / LightGBM`
 
-<!-- TELEMETRY DASHBOARD -->
-### 📈 GitHub Telemetry
+**Best public RMSE: 0.11649** · [Result record](https://github.com/VedanshMittal20/house-prices-advanced-regression/blob/main/submission_v5_result.json)
 
-<div align="center">
-  <!-- GitHub Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VedanshMittal20/VedanshMittal20/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VedanshMittal20/VedanshMittal20/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VedanshMittal20/VedanshMittal20/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+### [Jaipur Price Intelligence](https://github.com/VedanshMittal20/jaipur-price-intelligence)
 
-<br>
+A geospatial property valuation platform with spatial validation, multiplicative TreeSHAP explanations, and conformal prediction intervals.
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=VedanshMittal20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=VedanshMittal20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedanshMittal20&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF" alt="GitHub Streak" width="100%" />
-</div>
+`Python / FastAPI / LightGBM / React / Leaflet`
+<!-- PROJECTS:END -->
 
-<br>
+## Kaggle results
 
-<!-- HUMAN ELEMENT -->
-### 🎮 Off-Screen
-When I'm not pushing code, training models, or earning my certifications *(NVIDIA Prompt Engineering, IBM Generative AI)*, you can usually find me navigating the chaotic arenas of *The Finals*, tuning cars in *Forza Horizon 5*, or hitting the road in Rajasthan.
+<!-- KAGGLE:START -->
+Team entries on [Kaggle](https://www.kaggle.com/vedanshmittal2076). Public scores and completed placements are labeled separately.
+
+| Competition | Verified public score | Standing |
+| :--- | :--- | :--- |
+| [Predicting Electric Vehicle Purchases](https://www.kaggle.com/competitions/playground-series-s6e9) | [0.94646](https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model/blob/main/submission_result_v4.json) ROC AUC<br><sub>Best public</sub> | [294 / 3,575](https://www.kaggle.com/vedanshmittal2076/competitions)<br><sub>Completed · 7 Oct 2026</sub> |
+| [House Prices: Advanced Regression](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) | [0.11649](https://github.com/VedanshMittal20/house-prices-advanced-regression/blob/main/submission_v5_result.json) RMSE<br><sub>Best public</sub> | [93 / 3,937](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard)<br><sub>Public · 7 Oct 2026</sub> |
+| [2026 IEEE Big Data: Traffic Flow Bench](https://www.kaggle.com/competitions/2026-ieee-big-data-traffic-flow-bench) | [0.85114](https://www.kaggle.com/competitions/2026-ieee-big-data-traffic-flow-bench/leaderboard) Score<br><sub>Public leaderboard</sub> | [119 / 351](https://www.kaggle.com/competitions/2026-ieee-big-data-traffic-flow-bench/leaderboard)<br><sub>Public · 7 Oct 2026</sub> |
+<!-- KAGGLE:END -->
+
+## What I work with
+
+| Modeling & data | Products & delivery |
+| :--- | :--- |
+| Python, pandas, NumPy, scikit-learn | TypeScript, JavaScript, React, Next.js |
+| LightGBM, CatBoost, XGBoost | FastAPI, Node.js, Express |
+| Cross-validation, feature engineering, ensembles | PostgreSQL, Drizzle ORM, MongoDB |
+| Spatial validation, TreeSHAP, conformal prediction | Tailwind CSS, Docker, Git, GitHub Actions |
+
+## More of the work
+
+**[Relay](https://github.com/VedanshMittal20/Experiment-1-Full-Stack)** is a post composer with destination-specific validation, review workflows, and scheduling. **[StudyFlow](https://github.com/VedanshMittal20/StudyFlow)** brings assignments, Kanban boards, and focus sessions into a student planner.
+
+Earlier work includes **[traffic and road safety modeling](https://github.com/VedanshMittal20/MathsProject)**, **[Indian Kitchen](https://github.com/VedanshMittal20/IndianKitchen)**, and web development during my **HabiGo 360 internship**. I also explore LLM APIs and workflow automation through my personal **N.O.V.A** experiments.
+
+## Recently shipped
+
+<!-- REPOS:START -->
+- **[Predicting Electric Vehicle Purchases](https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model)** · Python · updated 5 Oct 2026
+- **[House Prices: Advanced Regression](https://github.com/VedanshMittal20/house-prices-advanced-regression)** · Python · updated 5 Oct 2026
+- **[Jaipur Price Intelligence](https://github.com/VedanshMittal20/jaipur-price-intelligence)** · Python · updated 5 Oct 2026
+- **[Relay: Multi-Platform Post Composer](https://github.com/VedanshMittal20/Experiment-1-Full-Stack)** · TypeScript · updated 19 Jul 2026
+- **[Indian Kitchen](https://github.com/VedanshMittal20/IndianKitchen)** · TypeScript · updated 30 Jun 2026
+- **[Habigo360](https://github.com/VedanshMittal20/Habigo360)** · Documentation · updated 26 Jun 2026
+
+[Explore all repositories](https://github.com/VedanshMittal20?tab=repositories).
+<!-- REPOS:END -->
+
+<details>
+<summary><strong>A little beyond the code</strong></summary>
+
+I enjoy The Finals, Forza Horizon 5, and road trips around Rajasthan. My learning includes NVIDIA prompt engineering and IBM generative AI coursework.
+
+</details>
+
+---
+
+Open to internships, applied ML projects, and thoughtful collaborations. **[Get in touch](mailto:vedanshmittal20@gmail.com).**
+
+<!-- UPDATED:START -->
+<sub>12 public projects · primary languages by repository: Python 5 · TypeScript 3 · JavaScript 2<br>Projects checked 7 Oct 2026. Standings retain their own verification dates.</sub>
+<!-- UPDATED:END -->

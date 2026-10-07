@@ -1,0 +1,46 @@
+{
+  "competitions": {
+    "playground-series-s6e9": {
+      "title": "Predicting Electric Vehicle Purchases",
+      "metric": "ROC AUC",
+      "public_score": 0.94646,
+      "score_at": "2026-09-30T10:29:28+00:00",
+      "score_source": "https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model/blob/main/submission_result_v4.json",
+      "score_kind": "Best public",
+      "rank": 294,
+      "teams": 3575,
+      "rank_kind": "Completed",
+      "rank_at": "2026-10-07",
+      "rank_source": "https://www.kaggle.com/vedanshmittal2076/competitions"
+    },
+    "house-prices-advanced-regression-techniques": {
+      "title": "House Prices: Advanced Regression",
+      "metric": "RMSE",
+      "public_score": 0.11649,
+      "score_at": "2026-09-25T20:18:20+00:00",
+      "score_source": "https://github.com/VedanshMittal20/house-prices-advanced-regression/blob/main/submission_v5_result.json",
+      "score_kind": "Best public",
+      "rank": 93,
+      "teams": 3937,
+      "rank_kind": "Public",
+      "rank_at": "2026-10-07",
+      "rank_source": "https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/leaderboard"
+    },
+    "2026-ieee-big-data-traffic-flow-bench": {
+      "title": "2026 IEEE Big Data: Traffic Flow Bench",
+      "metric": "Score",
+      "public_score": 0.85114,
+      "score_at": "2026-10-07",
+      "score_source": "https://www.kaggle.com/competitions/2026-ieee-big-data-traffic-flow-bench/leaderboard",
+      "score_kind": "Public leaderboard",
+      "rank": 119,
+      "teams": 351,
+      "rank_kind": "Public",
+      "rank_at": "2026-10-07",
+      "rank_source": "https://www.kaggle.com/competitions/2026-ieee-big-data-traffic-flow-bench/leaderboard"
+    }
+  },
+  "notebooks": [],
+  "github_checked_at": "2026-10-07T05:14:31+00:00",
+  "kaggle_checked_at": null
+}

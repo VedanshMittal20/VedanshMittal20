@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.tmp
+.env
+kaggle.json
+access_token
