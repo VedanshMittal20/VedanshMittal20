@@ -16,6 +16,12 @@ I build machine learning experiments that can be checked, and web products that 
 ## Selected work
 
 <!-- PROJECTS:START -->
+### [Jaipur Price Intelligence](https://github.com/VedanshMittal20/jaipur-price-intelligence)
+
+A geospatial property valuation platform with spatial validation, multiplicative TreeSHAP explanations, and conformal prediction intervals.
+
+`Python / FastAPI / LightGBM / React / Leaflet`
+
 ### [Predicting Electric Vehicle Purchases](https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model)
 
 Predicting EV purchase intent with feature engineering, additive models, and cross-validated gradient-boosting ensembles.
@@ -31,12 +37,6 @@ Reproducible Ames housing experiments with fold-fitted preprocessing, repeated v
 `Python / scikit-learn / CatBoost / LightGBM`
 
 **Best public RMSE: 0.11649** · [Result record](https://github.com/VedanshMittal20/house-prices-advanced-regression/blob/main/submission_v5_result.json)
-
-### [Jaipur Price Intelligence](https://github.com/VedanshMittal20/jaipur-price-intelligence)
-
-A geospatial property valuation platform with spatial validation, multiplicative TreeSHAP explanations, and conformal prediction intervals.
-
-`Python / FastAPI / LightGBM / React / Leaflet`
 <!-- PROJECTS:END -->
 
 ## Kaggle results
@@ -69,12 +69,12 @@ Earlier work includes **[traffic and road safety modeling](https://github.com/Ve
 ## Recently shipped
 
 <!-- REPOS:START -->
+- **[Jaipur Price Intelligence](https://github.com/VedanshMittal20/jaipur-price-intelligence)** · Python · updated 8 Oct 2026
 - **[Predicting Electric Vehicle Purchases](https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model)** · Python · updated 5 Oct 2026
 - **[House Prices: Advanced Regression](https://github.com/VedanshMittal20/house-prices-advanced-regression)** · Python · updated 5 Oct 2026
-- **[Jaipur Price Intelligence](https://github.com/VedanshMittal20/jaipur-price-intelligence)** · Python · updated 5 Oct 2026
 - **[Relay: Multi-Platform Post Composer](https://github.com/VedanshMittal20/Experiment-1-Full-Stack)** · TypeScript · updated 19 Jul 2026
-- **[Indian Kitchen](https://github.com/VedanshMittal20/IndianKitchen)** · TypeScript · updated 30 Jun 2026
 - **[Habigo360](https://github.com/VedanshMittal20/Habigo360)** · Documentation · updated 26 Jun 2026
+- **[StudyFlow](https://github.com/VedanshMittal20/StudyFlow)** · TypeScript · updated 30 Apr 2026
 
 [Explore all repositories](https://github.com/VedanshMittal20?tab=repositories).
 <!-- REPOS:END -->
@@ -91,5 +91,5 @@ I enjoy The Finals, Forza Horizon 5, and road trips around Rajasthan. My learnin
 Open to internships, applied ML projects, and thoughtful collaborations. **[Get in touch](mailto:vedanshmittal20@gmail.com).**
 
 <!-- UPDATED:START -->
-<sub>12 public projects · primary languages by repository: Python 5 · TypeScript 3 · JavaScript 2<br>Projects checked 8 Oct 2026. Standings retain their own verification dates.</sub>
+<sub>11 public projects · primary languages by repository: Python 5 · TypeScript 2 · JavaScript 2<br>Projects checked 8 Oct 2026. Standings retain their own verification dates.</sub>
 <!-- UPDATED:END -->
