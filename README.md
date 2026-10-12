@@ -16,27 +16,23 @@ I build machine learning experiments that can be checked, and web products that 
 ## Selected work
 
 <!-- PROJECTS:START -->
-### [Jaipur Price Intelligence](https://github.com/VedanshMittal20/jaipur-price-intelligence)
+### [Habigo360](https://github.com/VedanshMittal20/Habigo360)
 
-A geospatial property valuation platform with spatial validation, multiplicative TreeSHAP explanations, and conformal prediction intervals.
+Explore the source code and latest work in this repository.
 
-`Python / FastAPI / LightGBM / React / Leaflet`
+`TypeScript`
 
-### [Predicting Electric Vehicle Purchases](https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model)
+### [UserCrudAdvancedJava](https://github.com/VedanshMittal20/UserCrudAdvancedJava)
 
-Predicting EV purchase intent with feature engineering, additive models, and cross-validated gradient-boosting ensembles.
+Explore the source code and latest work in this repository.
 
-`Python / LightGBM / CatBoost / XGBoost`
+`Java`
 
-**Best public ROC AUC: 0.94646** · [Result record](https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model/blob/main/submission_result_v4.json)
+### [Rider Churn Prediction and Retention Analysis](https://github.com/VedanshMittal20/Rider-Churn-Prediction-and-Retention-Analysis)
 
-### [House Prices: Advanced Regression](https://github.com/VedanshMittal20/house-prices-advanced-regression)
+Explore the source code and latest work in this repository.
 
-Reproducible Ames housing experiments with fold-fitted preprocessing, repeated validation, and frozen model ensembles.
-
-`Python / scikit-learn / CatBoost / LightGBM`
-
-**Best public RMSE: 0.11649** · [Result record](https://github.com/VedanshMittal20/house-prices-advanced-regression/blob/main/submission_v5_result.json)
+`Jupyter Notebook`
 <!-- PROJECTS:END -->
 
 ## Kaggle results
@@ -69,12 +65,12 @@ Earlier work includes **[traffic and road safety modeling](https://github.com/Ve
 ## Recently shipped
 
 <!-- REPOS:START -->
-- **[Jaipur Price Intelligence](https://github.com/VedanshMittal20/jaipur-price-intelligence)** · Python · updated 8 Oct 2026
-- **[Predicting Electric Vehicle Purchases](https://github.com/VedanshMittal20/Electric-Vechile-Price-Prediction-Model)** · Python · updated 5 Oct 2026
-- **[House Prices: Advanced Regression](https://github.com/VedanshMittal20/house-prices-advanced-regression)** · Python · updated 5 Oct 2026
-- **[Relay: Multi-Platform Post Composer](https://github.com/VedanshMittal20/Experiment-1-Full-Stack)** · TypeScript · updated 19 Jul 2026
-- **[Habigo360](https://github.com/VedanshMittal20/Habigo360)** · Documentation · updated 26 Jun 2026
-- **[StudyFlow](https://github.com/VedanshMittal20/StudyFlow)** · TypeScript · updated 30 Apr 2026
+- **[Habigo360](https://github.com/VedanshMittal20/Habigo360)** · TypeScript · updated 12 Oct 2026
+- **[UserCrudAdvancedJava](https://github.com/VedanshMittal20/UserCrudAdvancedJava)** · Java · updated 12 Oct 2026
+- **[Rider-Churn-Prediction-and-Retention-Analysis](https://github.com/VedanshMittal20/Rider-Churn-Prediction-and-Retention-Analysis)** · Jupyter Notebook · updated 12 Oct 2026
+- **[cisco-packet-tracer-labs](https://github.com/VedanshMittal20/cisco-packet-tracer-labs)** · HTML · updated 12 Oct 2026
+- **[apex-sports-ecommerce](https://github.com/VedanshMittal20/apex-sports-ecommerce)** · HTML · updated 12 Oct 2026
+- **[post-composer-app](https://github.com/VedanshMittal20/post-composer-app)** · JavaScript · updated 12 Oct 2026
 
 [Explore all repositories](https://github.com/VedanshMittal20?tab=repositories).
 <!-- REPOS:END -->
@@ -91,5 +87,5 @@ I enjoy The Finals, Forza Horizon 5, and road trips around Rajasthan. My learnin
 Open to internships, applied ML projects, and thoughtful collaborations. **[Get in touch](mailto:vedanshmittal20@gmail.com).**
 
 <!-- UPDATED:START -->
-<sub>11 public projects · primary languages by repository: Python 5 · TypeScript 2 · JavaScript 2<br>Projects checked 12 Oct 2026. Standings retain their own verification dates.</sub>
+<sub>16 public projects · primary languages by repository: Python 5 · TypeScript 3 · JavaScript 3 · HTML 2 · Java 1 · Jupyter Notebook 1<br>Projects checked 12 Oct 2026. Standings retain their own verification dates.</sub>
 <!-- UPDATED:END -->
