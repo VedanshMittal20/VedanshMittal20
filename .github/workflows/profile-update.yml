@@ -1,0 +1,53 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: '17 4,16 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - profile.json
+      - update_profile.py
+      - requirements-profile.txt
+      - .github/workflows/profile-update.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PROFILE_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      KAGGLE_API_TOKEN: ${{ secrets.KAGGLE_API_TOKEN }}
+      KAGGLE_USERNAME: vedanshmittal2076
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - name: Install the official Kaggle client when connected
+        if: env.KAGGLE_API_TOKEN != ''
+        run: python -m pip install -r requirements-profile.txt
+      - name: Check updater logic
+        run: python update_profile.py --self-test
+      - name: Refresh public data
+        run: python update_profile.py
+      - name: Save changed profile sections
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md profile-snapshot.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Refresh public projects and Kaggle results'
+          git pull --rebase origin main
+          git push origin HEAD:main

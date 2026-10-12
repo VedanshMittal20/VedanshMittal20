@@ -1,0 +1,41 @@
+{
+  "github_user": "VedanshMittal20",
+  "kaggle_user": "vedanshmittal2076",
+  "featured_count": 3,
+  "recent_count": 6,
+  "projects": {
+    "Electric-Vechile-Price-Prediction-Model": {
+      "title": "Predicting Electric Vehicle Purchases",
+      "description": "Predicting EV purchase intent with feature engineering, additive models, and cross-validated gradient-boosting ensembles.",
+      "stack": "Python / LightGBM / CatBoost / XGBoost",
+      "competition": "playground-series-s6e9"
+    },
+    "house-prices-advanced-regression": {
+      "title": "House Prices: Advanced Regression",
+      "description": "Reproducible Ames housing experiments with fold-fitted preprocessing, repeated validation, and frozen model ensembles.",
+      "stack": "Python / scikit-learn / CatBoost / LightGBM",
+      "competition": "house-prices-advanced-regression-techniques"
+    },
+    "jaipur-price-intelligence": {
+      "title": "Jaipur Price Intelligence",
+      "description": "A geospatial property valuation platform with spatial validation, multiplicative TreeSHAP explanations, and conformal prediction intervals.",
+      "stack": "Python / FastAPI / LightGBM / React / Leaflet"
+    },
+    "Experiment-1-Full-Stack": {
+      "title": "Relay: Multi-Platform Post Composer",
+      "description": "Compose across six destinations with character validation, draft reviews, and scheduling.",
+      "stack": "Next.js / React / PostgreSQL / Drizzle"
+    },
+    "StudyFlow": {
+      "title": "StudyFlow",
+      "description": "A student planner with assignments, Kanban boards, course organization, and solo or group focus sessions.",
+      "stack": "React / TypeScript / Node.js"
+    },
+    "IndianKitchen": {"title": "Indian Kitchen"},
+    "MathsProject": {"title": "Traffic Flow & Road Safety"}
+  },
+  "score_directions": {
+    "playground-series-s6e9": "max",
+    "house-prices-advanced-regression-techniques": "min"
+  }
+}
