@@ -65,7 +65,7 @@ Earlier work includes **[traffic and road safety modeling](https://github.com/Ve
 ## Recently shipped
 
 <!-- REPOS:START -->
-- **[Hitodama](https://github.com/VedanshMittal20/Hitodama)** · C# · updated 16 Oct 2026
+- **[Hitodama](https://github.com/VedanshMittal20/Hitodama)** · C# · updated 18 Oct 2026
 - **[Habigo360](https://github.com/VedanshMittal20/Habigo360)** · TypeScript · updated 12 Oct 2026
 - **[UserCrudAdvancedJava](https://github.com/VedanshMittal20/UserCrudAdvancedJava)** · Java · updated 12 Oct 2026
 - **[Rider-Churn-Prediction-and-Retention-Analysis](https://github.com/VedanshMittal20/Rider-Churn-Prediction-and-Retention-Analysis)** · Jupyter Notebook · updated 12 Oct 2026
