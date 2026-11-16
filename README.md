@@ -16,6 +16,12 @@ I build machine learning experiments that can be checked, and web products that 
 ## Selected work
 
 <!-- PROJECTS:START -->
+### [Smart Expense Tracker Final](https://github.com/VedanshMittal20/Smart-Expense-Tracker-Final)
+
+Explore the source code and latest work in this repository.
+
+`JavaScript`
+
 ### [Hitodama](https://github.com/VedanshMittal20/Hitodama)
 
 Explore the source code and latest work in this repository.
@@ -27,12 +33,6 @@ Explore the source code and latest work in this repository.
 Explore the source code and latest work in this repository.
 
 `TypeScript`
-
-### [UserCrudAdvancedJava](https://github.com/VedanshMittal20/UserCrudAdvancedJava)
-
-Explore the source code and latest work in this repository.
-
-`Java`
 <!-- PROJECTS:END -->
 
 ## Kaggle results
@@ -65,12 +65,12 @@ Earlier work includes **[traffic and road safety modeling](https://github.com/Ve
 ## Recently shipped
 
 <!-- REPOS:START -->
+- **[Smart-Expense-Tracker-Final](https://github.com/VedanshMittal20/Smart-Expense-Tracker-Final)** · JavaScript · updated 16 Nov 2026
 - **[Hitodama](https://github.com/VedanshMittal20/Hitodama)** · C# · updated 18 Oct 2026
 - **[Habigo360](https://github.com/VedanshMittal20/Habigo360)** · TypeScript · updated 12 Oct 2026
 - **[UserCrudAdvancedJava](https://github.com/VedanshMittal20/UserCrudAdvancedJava)** · Java · updated 12 Oct 2026
 - **[Rider-Churn-Prediction-and-Retention-Analysis](https://github.com/VedanshMittal20/Rider-Churn-Prediction-and-Retention-Analysis)** · Jupyter Notebook · updated 12 Oct 2026
 - **[cisco-packet-tracer-labs](https://github.com/VedanshMittal20/cisco-packet-tracer-labs)** · HTML · updated 12 Oct 2026
-- **[apex-sports-ecommerce](https://github.com/VedanshMittal20/apex-sports-ecommerce)** · HTML · updated 12 Oct 2026
 
 [Explore all repositories](https://github.com/VedanshMittal20?tab=repositories).
 <!-- REPOS:END -->
@@ -87,5 +87,5 @@ I enjoy The Finals, Forza Horizon 5, and road trips around Rajasthan. My learnin
 Open to internships, applied ML projects, and thoughtful collaborations. **[Get in touch](mailto:vedanshmittal20@gmail.com).**
 
 <!-- UPDATED:START -->
-<sub>17 public projects · primary languages by repository: Python 5 · TypeScript 3 · JavaScript 3 · HTML 2 · C# 1 · Java 1 · Jupyter Notebook 1<br>Projects checked 16 Nov 2026. Standings retain their own verification dates.</sub>
+<sub>18 public projects · primary languages by repository: Python 5 · JavaScript 4 · TypeScript 3 · HTML 2 · C# 1 · Java 1 · Jupyter Notebook 1<br>Projects checked 16 Nov 2026. Standings retain their own verification dates.</sub>
 <!-- UPDATED:END -->
